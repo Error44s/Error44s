@@ -8,4 +8,4 @@
 - Founder of the [Sakura Bot](https://github.com/Sakura-World)
 - You can find more about me on my [website](https://error44.eu/)!
 
-![](https://github.com/Error44-Developer/SakuraGitHub.png)
+![Sakura](SakuraGitHub.png)
