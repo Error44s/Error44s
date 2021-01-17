@@ -1,4 +1,5 @@
 ## 👻 | Welcome to my GitHub Profile!
+![](username=Error44-Developer&color=blueviolet)
 ![](https://komarev.com/ghpvc/?username=Error44-Developer&color=blueviolet)
 
 - Due to that the most of my work's closed source, you won't see a lot on my GitHub
