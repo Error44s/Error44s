@@ -12,4 +12,4 @@ Here you can find my Github stats
 
 Stats
 
-[![Error44s's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Error44s)](https://github.com/error44s/github-readme-stats)
+[![Error44s's stats](https://github-readme-stats.vercel.app/api/wakatime?username=error44s)](https://github.com/error44s/github-readme-stats)
