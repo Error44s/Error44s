@@ -11,4 +11,4 @@ Here you can find my Github stats
 ### Learn more about me
 Here you can find more about my coding languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error44s&layout=compact&theme=dark)](https://github.com/Error44s/Discord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error44s&layout=compact&theme=dark&hide_border=True)](https://github.com/Error44s/Discord)
