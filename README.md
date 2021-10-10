@@ -11,6 +11,6 @@ Here you can find my Github stats
 ### Learn more about me
 Here you can find more about my coding languages
 
-[![Error44s's stats](https://github-readme-stats.vercel.app/api/wakatime?username=error44s&layout=compact&theme=dark&hide_border=True)](https://github.com/Error44s/Discord)
+[![Error44s's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=error44s&layout=compact&theme=dark&hide_border=True)](https://github.com/Error44s/Discord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error44s&layout=compact&theme=dark&hide_border=True)](https://github.com/Error44s/Discord)
