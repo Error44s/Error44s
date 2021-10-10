@@ -4,7 +4,7 @@ A full-stack developer who likes to develop in his spare time, enjoys watching a
 
 ### Quick overview
 Here you can find my Github stats
-![Error44s's github stats](https://github-readme-stats.vercel.app/api? username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
+![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
 
 ![](https://img.shields.io/badge/-Error44-546DE5)
 ![](https://img.shields.io/badge/Kawaii%20Hub-Online-546DE5)
