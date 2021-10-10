@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
 A full-stack developer who likes to develop in his spare time, enjoys watching anime, and puts a lot of time and effort into his projects. 
-If you like you can visit my projects [Kawaii](https://kawaiibot.me/), FREUNDE and not to forget my private website [Website](https://error44.eu/).
+If you like you can visit my projects [Kawaii](https://kawaiibot.me/), FREUNDE and not to forget my private website [Website](https://bio.link/error44).
 
 ### Quick overview
 Here you can find my Github stats
@@ -11,4 +11,4 @@ Here you can find my Github stats
 ### Learn more about me
 Here you can find more about my coding languages
 
-[![Error44s's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Error44s)](https://github.com/Error44s/Discord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error44s&layout=compact)](https://github.com/Error44s/Discord)
