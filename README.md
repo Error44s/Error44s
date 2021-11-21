@@ -3,8 +3,7 @@
 A full-stack developer who likes to develop in his spare time, enjoys watching anime, and puts a lot of time and effort into his projects. 
 If you like you can visit my projects [Siesta](https://siesta.red/), [freunde's eden](https://discord.gg/RKWzcS2teU) and not to forget my private website [Website](https://bio.link/error44).
 
-### Quick overview
-Here you can find my Github stats
+### A small overview of my Github statistics
 
 ![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
 
