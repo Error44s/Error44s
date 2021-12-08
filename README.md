@@ -1,7 +1,6 @@
 # Hi everyone :wave:
 
-A full-stack developer who likes to develop in his spare time, enjoys watching anime, and puts a lot of time and effort into his projects. 
-If you like you can visit my projects [Siesta](https://siesta.red/), [freunde's eden](https://discord.gg/RKWzcS2teU) and not to forget my private website [Website](https://bio.link/error44).
+A full stack developer who likes to develop in his spare time, enjoys watching anime and puts a lot of time and effort into his projects I also jump from project to project and love my work If you like you can visit my projects [Siesta](https://siesta.red/), [freunde's eden](https://discord.gg/RKWzcS2teU) and not to forget my private website [Website](https://bio.link/error44).
 
 ### A small overview of my Github statistics
 
