@@ -1,6 +1,6 @@
-# Hey, welcome on my GitHub
+# Hey, welcome to my GitHub!
 
-A full stack developer who likes to develop in his spare time, enjoys watching anime and puts a lot of time and effort into his projects I also jump from project to project and love my work If you like you can visit my projects [Siesta](https://siesta.red/), [Kawaii Hub](https://discord.gg/RKWzcS2teU) and not to forget my private website [Website](https://error44.tech/).
+I am a full time full stack developer who is mainly focused on all his projects and has one goal in mind i am mainly on my main projects where i work on every day. My main projects are [Siesta](https://siesta.red/), [Anime Angels](https://animeangels.de/) and [Siesta API](https://siesta.red/) these are my main projects and are mainly programmed with Python. If you want to know more about me and my projects you can do that by visiting my website [My Website](https://error44.tech/).
 
 ### Some statistics about me and my activity on GitHub
 
