@@ -9,4 +9,4 @@ I am a full time full stack developer who is mainly focused on all his projects 
 ### Some repositories from the [Siesta Service](https://github.com/SiestaBot)
 Siesta is an all-rounder Discord bot that focuses on anime and also specializes in roleplay games. Siesta also has its own image API so that users can communicate with each other in a different way.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Examples&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Bot&layout=compact&theme=dark&hide_border=True)](https://github.com/SiestaBot/Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Examples&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Bot&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot)
