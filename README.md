@@ -1,8 +1,14 @@
-# Hey, welcome to my GitHub!
+# Hey, welcome to my GitHub
 
-I am a full time full stack developer who is mainly focused on all his projects and has one goal in mind i am mainly on my main projects where i work on every day. My main projects are [Siesta](https://siesta.red/), [Anime Angels](https://animeangels.de/) and [Siesta API](https://siesta.red/) these are my main projects and are mainly programmed with Python. If you want to know more about me and my projects you can do that by visiting my website [My Website](https://error44.tech/).
+#### About Me
+
+I am a full time full stack developer who is mainly focused on all his projects and has one goal in mind i am mainly on my main projects where i work on every day. My main projects are [Siesta](https://siesta.red/), [Anime Reise](https://animereise.de/) and [Nani API](https://nani.red/) these are my main projects and are mainly programmed with Python. If you want to know more about me and my projects you can do that by visiting my links [website](https://links.error44.tech/).
 
 ### Some statistics about me and my activity on GitHub
+
+<div>
+<img src="https://i.imgur.com/t07BDAg.png" width="300" align="right" />
+<br/>
 
 ![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
 
