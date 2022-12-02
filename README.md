@@ -7,7 +7,7 @@ I am a full time full stack developer who is mainly focused on all his projects 
 ### Some statistics about me and my activity on GitHub
 
 <div>
-<img src="https://i.imgur.com/t07BDAg.png" width="300" align="right" />
+<img src="https://i.imgur.com/WQbQMAe.png" width="300" align="right" />
 <br/>
 
 ![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
