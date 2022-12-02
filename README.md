@@ -2,7 +2,7 @@
 
 #### About Me
 
-I am a full time full stack developer who is mainly focused on all his projects and has one goal in mind i am mainly on my main projects where i work on every day. My main projects are [Siesta Bot](https://siesta.red/), [Anime Reise](https://animereise.de/) and [Nani API](https://nani.red/) these are my main projects and are mainly programmed with Python. If you want to know more about me and my projects you can do that by visiting my links [website](https://links.error44.tech/).
+I am a full time full stack developer who is mainly focused on all his projects and has one goal in mind i am mainly on my main projects where i work on every day. My main projects are [Siesta Bot](https://siesta.red/), [Swiss Teiko](https://siesta.red/) and [Rosie API](https://siesta.red/) these are my main projects and are mainly programmed with Python. If you want to know more about me and my projects you can do that by visiting my links [website](https://links.error44.tech/).
 
 ### Some statistics about me and my activity on GitHub
 
