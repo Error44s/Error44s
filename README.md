@@ -6,7 +6,7 @@ I am a full time full stack developer who is mainly focused on all his projects 
 
 ### Some statistics about me and my activity on GitHub
 
-![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True)
+![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True&include_all_commits=true)
 
 ### Some repositories from the [Siesta Service](https://github.com/SiestaBot)
 Siesta is an all-rounder Discord bot that focuses on anime and also specializes in roleplay games. Siesta also has its own image API so that users can communicate with each other in a different way.
