@@ -1,14 +1,10 @@
-# Hey, welcome to my GitHub
+<p align="center"> 
+     <img src="https://github-profile-trophy.vercel.app/?username=Error44s&theme=darkhub&no-frame=true&no-bg=true&rank=-SECRET" alt="Error44s" /></a> 
+     </p>
 
-#### About Me
+![Banner](https://i.imgur.com/VBKh94k.gif)
 
-I am a full time full stack developer who is mainly focused on all his projects and has one goal in mind i am mainly on my main projects where i work on every day. My main projects are [Siesta Bot](https://siesta.red/), [Nani?!](https://siesta.red/) and [Swiss Teiko](https://siesta.red/) these are my main projects and are mainly programmed with Python. If you want to know more about me and my projects you can do that by visiting my links [website](https://error44.tech/).
-
-### Some statistics about me and my activity on GitHub
-
-![Error44s's github stats](https://github-readme-stats.vercel.app/api?username=error44s&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=True&include_all_commits=true)
-
-### Some repositories from the [Siesta Service](https://github.com/SiestaBot)
-Siesta is an all-rounder Discord bot that focuses on anime and also specializes in roleplay games. Siesta also has its own image API so that users can communicate with each other in a different way.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Examples&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiestaBot&repo=Bot&layout=compact&theme=dark&hide_border=True&show_owner=True)](https://github.com/SiestaBot/Bot)
+- I don't often have the chance to post my projects online because a lot of them aren't open source. But when I do work with a team, I like to share what we've been working on. Sharing knowledge and experiences can be really valuable, especially in the tech field.
+- Over the past few years, I have worked on a number of projects. One of the most successful so far has been the Siesta Discord bot. It has received a lot of positive feedback and has proven to be a valuable asset to many users.
+- Although I have a fair amount of experience with various programming languages, I enjoy helping others, particularly those who are new to programming, and try to encourage them to improve their skills. I believe that with dedication and practice, anyone can become proficient in coding.
+- You can find more about me on my links ([Say Hi](https://error44.tech/) :3)!
