@@ -1,7 +1,3 @@
-<p align="center"> 
-     <img src="https://github-profile-trophy.vercel.app/?username=Error44s&theme=darkhub&no-frame=true&no-bg=true&rank=-SECRET" alt="Error44s" /></a> 
-     </p>
-
 ![Banner](https://i.imgur.com/VBKh94k.gif)
 
 - I don't often have the chance to post my projects online because a lot of them aren't open source. But when I do work with a team, I like to share what we've been working on. Sharing knowledge and experiences can be really valuable, especially in the tech field.
