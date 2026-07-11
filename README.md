@@ -1,6 +1,22 @@
 ![Banner](https://i.imgur.com/VBKh94k.gif)
 
-- I don't often have the chance to post my projects online because a lot of them aren't open source. But when I do work with a team, I like to share what we've been working on. Sharing knowledge and experiences can be really valuable, especially in the tech field.
-- Over the past few years, I have worked on a number of projects. One of the most successful so far has been the Siesta Discord bot. It has received a lot of positive feedback and has proven to be a valuable asset to many users.
-- Although I have a fair amount of experience with various programming languages, I enjoy helping others, particularly those who are new to programming, and try to encourage them to improve their skills. I believe that with dedication and practice, anyone can become proficient in coding.
-- You can find more about me on my links ([Say Hi](https://error44.tech/) :3)!
+### Full Stack Developer @ Apart Studio & ONE
+
+> Building tools for developers, by developers. Passionate about clean code, scalable architecture, and open-source collaboration.
+
+### About Me
+While much of my enterprise work remains closed-source, I strongly believe in the power of collaborative development. I thrive in team environments and actively dedicate time to mentoring newcomers to programming. I believe that with dedication and practice, anyone can master code. 
+
+### Technical Arsenal
+* **Frontend Development:** Bootstrap 5, Sass, Less, jQuery
+* **Programming Languages:** Proficient in 9 languages, with deep expertise in Python, C, and C++
+* **Systems & Infrastructure:** Windows and Linux server configuration, deployment, and administration
+
+### Featured Project
+* **Siesta Discord Bot:** One of my most successful public initiatives, delivering a robust, highly-rated experience and serving as a valuable asset to a large user base.
+* **Parsecore:** My latest open-source initiative. Built with a focus on performance and clean architecture, it reflects my ongoing commitment to providing robust tools for the developer community.
+
+### Let's Connect
+I am always open to discussing tech, sharing experiences, or collaborating on interesting projects.
+
+* Portfolio & Links: [Say Hi](https://error44.tech/)
