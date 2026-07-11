@@ -8,9 +8,9 @@
 While much of my enterprise work remains closed-source, I strongly believe in the power of collaborative development. I thrive in team environments and actively dedicate time to mentoring newcomers to programming. I believe that with dedication and practice, anyone can master code. 
 
 ### Technical Arsenal
-* **Frontend Development:** Bootstrap 5, Sass, Less, jQuery
-* **Programming Languages:** Proficient in 9 languages, with deep expertise in Python, C, and C++
-* **Systems & Infrastructure:** Windows and Linux server configuration, deployment, and administration
+* **Frontend & Full Stack:** React, TypeScript, JavaScript, Bootstrap 5, Sass, Less, jQuery, and modern web ecosystems
+* **Programming Languages:** Proficient in 9 languages, with deep expertise in Python, C, C++, Swift, and more
+* **Systems, Infrastructure & Cloud:** AWS, Microsoft Exchange Server, Windows Server VPN infrastructure, Windows and Linux server configuration, deployment, and management of enterprise-level tools
 
 ### Featured Project
 * **Siesta Discord Bot:** One of my most successful public initiatives, delivering a robust, highly-rated experience and serving as a valuable asset to a large user base.
